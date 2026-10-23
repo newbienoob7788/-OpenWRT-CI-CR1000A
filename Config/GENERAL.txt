@@ -1,6 +1,8 @@
 #科学插件调整
 CONFIG_PACKAGE_luci-app-homeproxy=y
 CONFIG_PACKAGE_luci-app-ssr-plus=y
+#ap和ipv6一键设置插件
+CONFIG_PACKAGE_luci-app-router-tool=n
 #主题插件
 CONFIG_PACKAGE_luci-app-aurora-config=n
 #增加插件
